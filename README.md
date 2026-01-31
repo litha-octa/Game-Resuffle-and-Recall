@@ -83,7 +83,7 @@ cd shuffle-and-recall
 
 2. **Run the game**
 ```bash
-python test.py
+py resuffle_and_recall.py
 ```
 
 That's it! No external dependencies required. 🎉
