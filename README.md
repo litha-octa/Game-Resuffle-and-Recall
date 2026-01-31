@@ -119,10 +119,8 @@ That's it! No external dependencies required. 🎉
 ```
 shuffle-and-recall/
 │
-├── test.py                 # Main game file
+├── resuffle_and_recall.py                 # Main game file
 ├── README.md              # This file
-├── pseudocode_shuffle_and_recall.txt  # Algorithm pseudocode
-└── Laporan_Tugas_Shuffle_And_Recall.docx  # Full documentation (Indonesian)
 ```
 
 ---
@@ -186,13 +184,6 @@ This project demonstrates understanding of:
 - If-else for conditional logic
 
 ---
-
-## 📝 Documentation
-
-### Full Documentation
-Complete documentation is available in:
-- **Pseudocode:** `pseudocode_shuffle_and_recall.txt`
-- **Report:** `Laporan_Tugas_Shuffle_And_Recall.docx` (Indonesian)
 
 ### Key Classes and Methods
 
@@ -268,14 +259,10 @@ SOFTWARE.
 ---
 
 ## 👥 Authors
-
-**Team Members:**
-- Hendriani Ani (240401010378)
-- Litha Octa Delistia (240401010317)
+- Litha Octa Delistia
 
 **Course:** Dasar Pemrograman  
 **Institution:** Universitas Siber Asia  
-**Instructor:** Ega Dioni Putri, S.T., M.M.G.
 
 ---
 
